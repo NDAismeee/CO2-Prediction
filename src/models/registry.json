@@ -1,0 +1,50 @@
+{
+  "riceEmissionCH4": {
+    "model": "models/model_riceEmissionCH4.pkl",
+    "scaler": "models/scaler_riceEmissionCH4.pkl",
+    "y_scaler": null,
+    "last_n_years_test": 2
+  },
+  "riceEmissionN2O": {
+    "model": "models/model_riceEmissionN2O.pkl",
+    "scaler": "models/scaler_riceEmissionN2O.pkl",
+    "y_scaler": null,
+    "last_n_years_test": 2
+  },
+  "livestockEmissionCH4": {
+    "model": "models/model_livestockEmissionCH4.pkl",
+    "scaler": "models/scaler_livestockEmissionCH4.pkl",
+    "y_scaler": null,
+    "last_n_years_test": 2
+  },
+  "livestockEmissionN2O": {
+    "model": "models/model_livestockEmissionN2O.pkl",
+    "scaler": "models/scaler_livestockEmissionN2O.pkl",
+    "y_scaler": null,
+    "last_n_years_test": 2
+  },
+  "carbonSequestrationBelowGround": {
+    "model": "models/model_carbonSequestrationBelowGround.pkl",
+    "scaler": "models/scaler_carbonSequestrationBelowGround.pkl",
+    "y_scaler": "models/y_scaler_carbonSequestrationBelowGround.pkl",
+    "last_n_years_test": 2
+  },
+  "carbonSequestrationAboveGround": {
+    "model": "models/model_carbonSequestrationAboveGround.pkl",
+    "scaler": "models/scaler_carbonSequestrationAboveGround.pkl",
+    "y_scaler": "models/y_scaler_carbonSequestrationAboveGround.pkl",
+    "last_n_years_test": 2
+  },
+  "CH4Emission": {
+    "model": "models/model_CH4Emission.pkl",
+    "scaler": "models/scaler_CH4Emission.pkl",
+    "y_scaler": null,
+    "last_n_years_test": 2
+  },
+  "N2OEmission": {
+    "model": "models/model_N2OEmission.pkl",
+    "scaler": "models/scaler_N2OEmission.pkl",
+    "y_scaler": null,
+    "last_n_years_test": 2
+  }
+}
