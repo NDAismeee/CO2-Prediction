@@ -11,5 +11,5 @@ Nếu cần sử dụng hoặc kiểm tra bộ dữ liệu này, vui lòng liên
 
 
 ## Dữ liệu mới cập nhật năm 2025
-- [Ảnh vệ tinh Tháng 4 năm 2025]([https://drive.google.com/file/d/1DrT-25VjLgSV5aj6LWZUHJNKK2JA2yIr/view?usp=drive_link](https://drive.google.com/drive/folders/1lEGCfAUHqxJDYaWo0EkrJle-uunx2CE3?usp=sharing))
-- [Ảnh vệ tinh Tháng 8 năm 2025]([https://drive.google.com/file/d/1DrT-25VjLgSV5aj6LWZUHJNKK2JA2yIr/view?usp=drive_link](https://drive.google.com/drive/folders/1qjDzwByQ9P5GrKP8z4ilhbFJJJp3HRCk?usp=sharing))
+- [Ảnh vệ tinh Tháng 4 năm 2025](https://drive.google.com/drive/folders/1lEGCfAUHqxJDYaWo0EkrJle-uunx2CE3?usp=sharing)
+- [Ảnh vệ tinh Tháng 8 năm 2025](https://drive.google.com/drive/folders/1qjDzwByQ9P5GrKP8z4ilhbFJJJp3HRCk?usp=sharing)
